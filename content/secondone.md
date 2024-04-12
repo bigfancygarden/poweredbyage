@@ -18,8 +18,8 @@ It's talking about Analytics services (alternatives to Google). So far, I see Pl
 
 I think I'm going to change the font. I changed the font. I made it Roboto, but didn't like it as much, so went back to the old one, Source Sans Pro.
 
-> [!info] Title
+> [!info] Alert! Alert!
 > 
-> This is a callout!
+> I got a callout to work!
 
-^ I was trying to put in a Callout but it doesn't appear to be working. 
+^ I was trying to put in a Callout but it doesn't appear to be working. Okay now it's working. I was typing it incorrectly. I enabled something in settings. I'm going to turn it off to see if it mattered or not.
