@@ -14,3 +14,5 @@ Sadly, I've run into an immediate problem. I use the Dataview community plugin t
 I have found a solution, [[Obsidian Publish with Dataview]], but it is a bit complicated for me to try to implement right this moment.
 
 I'm already starting to find problems, or rather, limitations with Obsidian Publish's presentation and navigation. I might have to accelerate a transition to Quartz.
+
+Thanks
