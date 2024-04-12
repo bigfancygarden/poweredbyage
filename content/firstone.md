@@ -1,5 +1,6 @@
 ---
-title: 2024-04-11
+title: First Blog post (sort of)
+date: 2024-04-11
 draft: false
 tags:
     - blog

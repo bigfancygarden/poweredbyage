@@ -1,5 +1,6 @@
 ---
-title: 2024-04-12
+title: Second Blog post
+date: 2024-04-12
 draft: false
 tags:
     - blog
