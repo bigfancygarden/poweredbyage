@@ -1,5 +1,5 @@
 ---
-title: 2024 April 11
+title: 2024-04-11
 draft: false
 tags:
     - blog
