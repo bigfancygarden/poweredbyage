@@ -23,3 +23,5 @@ I think I'm going to change the font. I changed the font. I made it Roboto, but 
 > I got a callout to work!
 
 ^ I was trying to put in a Callout but it doesn't appear to be working. Okay now it's working. I was typing it incorrectly. I enabled something in settings. I'm going to turn it off to see if it mattered or not.
+
+Okay, so I had enabled something " enableInHtmlEmbed: " but then disabled it as it wasn't the problem with my callouts. Well they're working now. Great.
