@@ -1,5 +1,10 @@
 ---
-title: F U
+title: First Post
+draft: false
+tags:
+    - first-tag
+    - second-tag
+    - third-tag
 ---
 
-Chat with me 
+Welcome to my nightmare. Whoa oa oa oa
