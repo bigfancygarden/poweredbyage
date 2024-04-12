@@ -16,4 +16,4 @@ I'm playing around with Quartz's features. For example, I just added the date to
 
 It's talking about Analytics services (alternatives to Google). So far, I see Plausible, Umami, GoatCounter and Posthog.
 
-I think I'm going to change the font.
+I think I'm going to change the font. I changed the font. I made it Roboto, but didn't like it as much, so went back to the old one, Source Sans Pro.
