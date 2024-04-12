@@ -1,7 +1,7 @@
 ---
-title: Welcome to the Big Fancy Garden
+title: Powered by Age Podcast
 ---
 
-This is my first attempt at setting up a Digital Garden. THanks.
+Welcome to the Powered by Age Podcast
 
 
