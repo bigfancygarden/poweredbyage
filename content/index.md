@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the Big Fancy Garden
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is my first attempt at setting up a Digital Garden.
+
+
