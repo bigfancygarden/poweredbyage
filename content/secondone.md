@@ -11,3 +11,9 @@ Second attempt! I trashed the Obsidian Publish site, and went over to Quartz. It
 I moved away from GitHub pages, and instead used Cloudflare, which is where I have the domain registered (pretty cheap, would recommend). So far so good.
 
 I was running into a bit of a problem where I didn't format the frontmatter correctly (I forgot to add the 3 dashes). It was causing my GitHub upload to fail. But now it appears to be working.
+
+I'm playing around with Quartz's features. For example, I just added the date to this post in the frontmatter. I should see what other frontmatter fields exist.
+
+It's talking about Analytics services (alternatives to Google). So far, I see Plausible, Umami, GoatCounter and Posthog.
+
+I think I'm going to change the font.
